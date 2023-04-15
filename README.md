@@ -1,6 +1,6 @@
 <h2 align="center">Hola 👋,  soy Juani Machuca</h2>
-<h4 align="center">Argentino :star2::star2::star2:</h4>
-<h4 align="center"> Estudiante de la UTN :man_technologist: :octocat: </h4>
+<h4 align="left">Argentino :star2::star2::star2:</h4>
+<h4 align="left"> Estudiante de la UTN :man_technologist: :octocat: </h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
